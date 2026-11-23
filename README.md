@@ -5,6 +5,10 @@ one-page brand health report with an LLM-written summary.
 
 **Stack:** Python, pandas, Streamlit, Altair, Claude (`claude-opus-5-5`) or Gemini (`gemini-2.5-flash`).
 
+![Example one-page brand health report](docs/report-example.png)
+
+*Example report for a fictional creator against a mock brand brief (offline rule-based summary shown; with an API key the summary is written by Claude or Gemini).*
+
 ## Quick start
 
 ```bash
