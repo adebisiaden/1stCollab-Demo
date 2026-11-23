@@ -9,7 +9,7 @@ import json
 import os
 
 CLAUDE_MODEL = "claude-opus-5-5"
-GEMINI_MODEL = "gemini-2.5-flash"
+GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-3.8-flash")
 
 SYSTEM_PROMPT = """You are an influencer-marketing analyst writing for a brand partnerships manager.
 You receive computed metrics for one creator and a brand brief. Write a concise brand health

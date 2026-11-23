@@ -3,7 +3,7 @@
 Score creators against a brand brief using their public post metrics, then produce a
 one-page brand health report with an LLM-written summary.
 
-**Stack:** Python, pandas, Streamlit, Altair, Claude (`claude-opus-5-5`) or Gemini (`gemini-2.5-flash`).
+**Stack:** Python, pandas, Streamlit, Altair, Claude (`claude-opus-5-5`) or Gemini (`gemini-3.8-flash`).
 
 ![Example one-page brand health report](docs/report-example.png)
 
