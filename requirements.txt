@@ -1,0 +1,7 @@
+pandas>=3.0
+numpy>=2.0
+streamlit>=1.67
+altair>=6.0
+anthropic>=2.12
+google-genai>=3.0   # optional: only needed for the Gemini provider
+pytest>=9.0         # tests

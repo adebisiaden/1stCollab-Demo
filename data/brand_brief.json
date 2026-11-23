@@ -1,0 +1,14 @@
+{
+  "brand_name": "Solenne Skin (mock brand)",
+  "campaign": "Everyday SPF launch, Q1",
+  "product": "Lightweight daily mineral SPF 40 moisturizer",
+  "target_categories": ["skincare", "beauty", "lifestyle"],
+  "keywords": ["spf", "skincare", "skin barrier", "clean beauty", "glow", "routine", "sunscreen"],
+  "target_age_brackets": ["18-24", "25-34"],
+  "target_countries": ["US", "CA"],
+  "preferred_platforms": ["instagram", "tiktok"],
+  "min_engagement_rate": 0.03,
+  "desired_posts_per_week": 3,
+  "excluded_terms": ["giveaway", "crypto", "gambling", "dupe"],
+  "tone": "Science-backed, warm, inclusive, no fear-based messaging"
+}
